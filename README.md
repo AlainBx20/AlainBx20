@@ -52,7 +52,7 @@ I also build AI and full-stack projects using **React**, **Angular**, **Node.js*
 ## 💼 Experience
 
 ### Software Developer — SMI, Tunis, Tunisia  
-**May 2025 – Present | 1 year and 1 month**
+**May 2025 – Present | 1 year and 3 month**
 
 At SMI, I contribute to the development and modernization of banking software solutions.
 
